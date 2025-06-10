@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qOTLFxSk4v4=",
+  "dgSpecHash": "7OSvt/lyk6A=",
   "success": true,
-  "projectFilePath": "c:\\WebPhuKien\\WebsiteBanPhuKien\\WebsiteBanPhuKien.csproj",
+  "projectFilePath": "C:\\Users\\nhant\\OneDrive\\Tài liệu\\GitHub\\Wed\\WebsiteBanPhuKien\\WebsiteBanPhuKien.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nhant\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\nhant\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

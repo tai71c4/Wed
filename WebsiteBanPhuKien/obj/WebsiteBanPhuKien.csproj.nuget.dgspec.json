@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\WebPhuKien\\WebsiteBanPhuKien\\WebsiteBanPhuKien.csproj": {}
+    "C:\\Users\\nhant\\OneDrive\\Tài liệu\\GitHub\\Wed\\WebsiteBanPhuKien\\WebsiteBanPhuKien.csproj": {}
   },
   "projects": {
-    "c:\\WebPhuKien\\WebsiteBanPhuKien\\WebsiteBanPhuKien.csproj": {
+    "C:\\Users\\nhant\\OneDrive\\Tài liệu\\GitHub\\Wed\\WebsiteBanPhuKien\\WebsiteBanPhuKien.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\WebPhuKien\\WebsiteBanPhuKien\\WebsiteBanPhuKien.csproj",
+        "projectUniqueName": "C:\\Users\\nhant\\OneDrive\\Tài liệu\\GitHub\\Wed\\WebsiteBanPhuKien\\WebsiteBanPhuKien.csproj",
         "projectName": "WebsiteBanPhuKien",
-        "projectPath": "c:\\WebPhuKien\\WebsiteBanPhuKien\\WebsiteBanPhuKien.csproj",
+        "projectPath": "C:\\Users\\nhant\\OneDrive\\Tài liệu\\GitHub\\Wed\\WebsiteBanPhuKien\\WebsiteBanPhuKien.csproj",
         "packagesPath": "C:\\Users\\nhant\\.nuget\\packages\\",
-        "outputPath": "c:\\WebPhuKien\\WebsiteBanPhuKien\\obj\\",
+        "outputPath": "C:\\Users\\nhant\\OneDrive\\Tài liệu\\GitHub\\Wed\\WebsiteBanPhuKien\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
